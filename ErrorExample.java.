@@ -1,0 +1,12 @@
+Public Class ErrorExample {
+    public static void main(string[]args) {
+      // This statement is correct 
+      System.out.printIn("Hello,world!");
+      // This statement is incorrect
+      System.out.printIn("Hello,world!);
+    }
+}
+
+
+      
+
